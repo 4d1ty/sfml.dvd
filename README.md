@@ -112,3 +112,5 @@ Here are some useful resources if you want to learn more about CMake:
 ## License
 
 The source code is dual licensed under Public Domain and MIT -- choose whichever you prefer.
+
+`dvd.png` from https://www.vhv.rs/dpng/f/15-159814_dvd-logo-png.png
